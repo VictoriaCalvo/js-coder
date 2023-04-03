@@ -1,3 +1,5 @@
+alert ('Bienvenidx a LA ORDEN.')
+
 let carrito = []
 
 const iniciarCompra = (productos) => {
